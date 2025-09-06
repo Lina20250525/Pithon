@@ -47,20 +47,20 @@
         <form action="/" method="post">
             <fieldset class="osn">
                 <label class="tema">
-                    <input class='tema' type="text" id="tema" placeholder="Тема обращения" required></input>
+                    <input class='tema' type="text" id="tema" maxlength="40" pattern="[А-Яа-яЁё ]+" title="Только русские буквы" placeholder="Тема обращения" required></input>
                 </label>
 
                 <label class="ima">
-                    <input class='imay' type="text" id="Imya" placeholder="Имя" required></input>
+                    <input class='imay' type="text" id="Imya" minlength ="5" maxlength="40" pattern="[А-Яа-яЁё ]+" title="Только русские буквы"  placeholder="Имя" required></input>
                 </label>
 
                 <label class="tel">
-                    <input class='tele' type="tel" id="tel" placeholder="Телефон" align="right"  pattern="\d" required></input>
-                    <input class='email' type="email" id="email" placeholder="Email" align="right" required></input>
+                    <input class='tele' type="tel" id="tel" minlength="11" maxlength="13"  placeholder="Телефон: +71111111111" align="right"  pattern="+7[0-9]{10}" required></input>
+                    <input class='email' type="email" id="email"  placeholder="Email: rtdvv@yandex.ru" align="right" required></input>
                 </label>
 
                 <label class="tex">
-                    <textarea class='tekst' type="text" id="tex" placeholder="Введите ваше сообщение" required ></textarea>
+                    <textarea class='tekst' name="tex" id="tex" maxlength="900" pattern="[А-Яа-яЁё ]+" title="Только русские буквы" placeholder="Введите ваше сообщение"  required ></textarea>
                 </label>
                 <label class="buttono">
                     <button class="otpravit"  type="submit">Отправить</button>
