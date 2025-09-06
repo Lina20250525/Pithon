@@ -1,0 +1,113 @@
+.osn  {
+    max-height: 974px;
+    max-width: 1480px;
+    margin-top: 145px;
+    margin-left: 213px;
+    border: none;
+    font: 20pt inter, Helvetica, sans-serif;
+    color: #949393;
+    display:block;
+    margin-right:624px;
+}
+
+.log, .par{
+
+    background-color: #B5B4B4;
+    color: #737070;
+
+}
+
+.otpravit {
+    background-color: #444444;
+    border: none;
+    color: #00FFFF;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    padding: 15px 24px;
+    font-weight: 600;
+
+}
+
+label {
+    display: block;
+    margin-bottom: 30px;
+    text-align:right;
+}
+
+.buttono{
+    margin-left: 450px;
+    margin-right: 214px;
+
+}
+.zapomni {
+    margin-right: 360px;
+}
+
+.imay, .parol, .login, .email{
+    text-decoration: none;
+    font: 20pt inter, Helvetica, sans-serif;
+    color: #949393;
+    font-weight: 500;
+}
+
+.ima, .par, .log, .ema, .dat {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.45);
+    font: 18pt inter, Helvetica, sans-serif;
+    height: 46px;
+    width: 525px;
+
+}
+.ima, .ema, .dat {
+    background-color: #efeded;
+    color: #8B8A8A;
+}
+
+.email {
+    margin-bottom: 30px;
+}
+
+.zapomni {
+    font: 15pt inter, Helvetica, sans-serif;
+    color: #adacac;
+    border: none;
+    margin-left: 250px;
+}
+
+input {
+    outline:none;
+}
+
+.parol{
+    margin-left: 135px;
+}
+
+.sotrydnik, .admin {
+    text-align: left;
+    margin-left: 213px;
+
+}
+.tip {
+    text-align: left;
+    margin-left: 42px;
+}
+
+.sotrydnik1, .admin1 {
+    text-align: left;
+    margin-left: 267px;
+}
+
+.data1, .data {
+    text-align: left;
+}
+
+.dat {
+    height: 46px;
+    width: 464px;
+}
+
+
