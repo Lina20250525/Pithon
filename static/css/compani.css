@@ -1,0 +1,29 @@
+.osn {
+    max-height: 1480px;
+    max-width: 1480px;
+    margin: auto;
+    position: absolute;
+}
+
+.o_kompanii {
+    height: 975px;
+    width: 1096px;
+    background-color: #e6e6e6;
+    border: 5px dashed #5e5e5e;
+    margin-top: 185px;
+    margin-left: 160px;
+    border-radius: 45px;
+
+}
+
+.text {
+    margin: 49px;
+}
+
+.textp {
+
+    font-weight: normal;
+    color:#333333;
+}
+
+
