@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef69594-751b-4473-95d1-2974971a54a9" name="Changes" comment="zayavka">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cef69594-751b-4473-95d1-2974971a54a9" name="Changes" comment="index">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/another_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/another_user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/company.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/company.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/data_sdelki.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/data_sdelki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/enter.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/enter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/information_client.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/information_client.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/instrykc.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/instrykc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/users_catocka1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users_catocka1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/users_catocka2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users_catocka2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/users_sozdanie.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users_sozdanie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/zayavka.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/zayavka.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,7 +432,63 @@
       <option name="project" value="LOCAL" />
       <updated>1757148737708</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="rew">
+      <option name="closed" value="true" />
+      <created>1757149095773</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1757149095773</updated>
+    </task>
+    <task id="LOCAL-00028" summary="rew">
+      <option name="closed" value="true" />
+      <created>1757149110444</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1757149110444</updated>
+    </task>
+    <task id="LOCAL-00029" summary="rew">
+      <option name="closed" value="true" />
+      <created>1757149133576</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1757149133576</updated>
+    </task>
+    <task id="LOCAL-00030" summary="rew">
+      <option name="closed" value="true" />
+      <created>1757149145940</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1757149145940</updated>
+    </task>
+    <task id="LOCAL-00031" summary="rew">
+      <option name="closed" value="true" />
+      <created>1757149159990</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1757149159990</updated>
+    </task>
+    <task id="LOCAL-00032" summary="rew">
+      <option name="closed" value="true" />
+      <created>1757149169507</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1757149169507</updated>
+    </task>
+    <task id="LOCAL-00033" summary="index">
+      <option name="closed" value="true" />
+      <created>1757149397875</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1757149397875</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,8 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="index" />
-    <MESSAGE value="footer" />
     <MESSAGE value="header" />
     <MESSAGE value="compani" />
     <MESSAGE value="enter" />
@@ -471,7 +538,9 @@
     <MESSAGE value="profiles_settings.xml" />
     <MESSAGE value="rain" />
     <MESSAGE value="zayavka" />
-    <option name="LAST_COMMIT_MESSAGE" value="zayavka" />
+    <MESSAGE value="rew" />
+    <MESSAGE value="index" />
+    <option name="LAST_COMMIT_MESSAGE" value="index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

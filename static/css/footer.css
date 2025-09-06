@@ -11,7 +11,6 @@ footer {
   color: #ffffff;
   font: 16pt inter, Helvetica, sans-serif;
   padding: 20px;
-
 }
 
 a, a:hover, a:visited {
@@ -28,6 +27,11 @@ a, a:hover, a:visited {
     flex-wrap: nowrap;
     list-style-type: none;
 
+}
+
+
+.fdiv2{
+font: 7pt inter, Helvetica, sans-serif;
 }
 
 p{
