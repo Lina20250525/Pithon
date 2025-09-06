@@ -1,0 +1,101 @@
+.osn {
+    max-height: 1322px;
+    max-width: 1480px;
+    margin-top: 166px;
+    margin-left: 160px;
+    font-style: value;
+    color: #bbbbbb;
+    border: none;
+
+ }
+
+label {
+    width:800px;
+
+}
+ input, textarea {
+
+    text-align: left;
+    font-weight: 200;
+    outline:none;
+
+
+}
+
+textarea {
+    maxlength:678;
+    wrap: soft;
+    height: 498px;
+    width: 759px;
+    padding: 20px;
+    margin-bottom: 86px;
+
+}
+
+input{
+      margin-bottom: 28px;
+
+}
+
+input, textarea {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.45);
+    background-color: #efeded;
+    font: 18pt inter, Helvetica, sans-serif;
+    font-style:  italic;
+    color: #8B8A8A;
+
+}
+
+
+.otpravit {
+    background-color: rgba(55, 55, 55, 0.45);
+    border: none;
+    color: #00FFFF;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    padding: 15px 24px;
+    font-weight: 600;
+
+}
+
+.buttono{
+    margin-top: 844px;
+    margin-left: 546px;
+
+}
+.tema {
+    height: 56px;
+    width: 759px;
+    margin-bottom: 28px;
+
+
+}
+.imay {
+    height: 56px;
+    width: 377px;
+
+}
+
+.tel{
+    text-decoration: none;
+    display:inline-block;
+}
+
+.tele {
+    height: 56px;
+    width: 320px;
+
+}
+.email {
+    height: 56px;
+    width: 320px;
+
+}
+.tema, .ima, .tex, .buuton {
+    display: block;
+}
